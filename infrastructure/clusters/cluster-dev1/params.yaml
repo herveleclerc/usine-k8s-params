@@ -1,0 +1,3 @@
+cluster_name: cluster-dev1
+cluster_fqdn: cluster-dev1.vclusters.caas.fr
+k8s_version: 1.27.6
